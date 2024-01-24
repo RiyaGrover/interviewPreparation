@@ -1,0 +1,7 @@
+Stack - dynamic in size and we can add elements 
+only form the top not like arraylist where we can add elements from anywhere.
+
+Three methods - push , pop , peek 
+
+Stack<Integer> st = new Stack<>(); - to declare and initialize stack 
+
